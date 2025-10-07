@@ -27,5 +27,12 @@
       "form_factor": "wide",
       "label": "Recipe list screen"
     }
-  ]
+  ],
+  "dir": "auto",
+  "lang": "en",
+  "prefer_related_applications": true,
+  "categories": [
+    "food"
+  ],
+  "id": "recipes "
 }
