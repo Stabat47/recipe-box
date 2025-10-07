@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.vercel.recipe_box_delta.twa",
+        "sha256_cert_fingerprints": ["86:F7:B2:B5:23:E1:01:5B:31:F4:57:07:CD:56:DB:A4:44:E1:91:05:67:3E:9A:1C:6C:2C:68:54:D6:EC:9F:2D"]
+      }
+    }]
